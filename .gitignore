@@ -14,3 +14,4 @@ molecule
 applications
 experiments
 KAN_venv/
+mgr/KAN/kan_plots/*
