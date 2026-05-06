@@ -14,8 +14,8 @@ molecule
 applications
 experiments
 KAN_venv/
-mgr/KAN/kan_plots/*
-mgr/KAN/model/*
+mgr/KAN/kan_plots/
+mgr/KAN/model/
 tutorials/Example/model/*
 .vscode
 .idea
